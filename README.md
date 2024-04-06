@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dzz-M
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning software development
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in develop software
+- 🌱 I’m currently learning c#, javascript and java
+- 💞️ I’m looking to collaborate on everyone
 - 📫 How to reach me ...
 
 <!---
